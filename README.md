@@ -5,6 +5,8 @@ Source code for the 2023 tumor cell migration model, plus additional stuff.
 - Modellenpracticum-2023-CC3D.zip: The final (2D) model made in CC3D.
 - Modellenpracticum-2023-3d.zip: The stub of the 3D model, also in CC3D.
 - Supplementary-videos-1.zip and Supplementary-videos-2.zip: A selection of movies showing the simulation in action.
+- Python scripts R model.zip: The first alternative model from the discussion chapter; contains both the R and Python code.
+- Hook-Based Protrusion Model.zip: The second alternative model from the discussion chapter.
 
 ## Supplementary videos additional information:
 - Typical movement.mkv: This movie shows a typical example of a simulation, in this case of a strongly adhesive cell moving through
